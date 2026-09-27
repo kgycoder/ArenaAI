@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_primary">#0a0a0a</color>
+    <color name="bg_surface">#111111</color>
+    <color name="bg_elevated">#1a1a1a</color>
+    <color name="accent">#7c6fcd</color>
+    <color name="accent_hover">#9585e0</color>
+    <color name="text_primary">#f0f0f0</color>
+    <color name="text_secondary">#888888</color>
+    <color name="border">#2a2a2a</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
